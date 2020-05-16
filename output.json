@@ -1,0 +1,146 @@
+{
+  "orphanPlanets" : 30,
+  "planetOrbitingHotStar" : "V391 Peg b",
+  "planetsGrouped" : {
+    "0" : {
+      "smallPlanetCount" : 9,
+      "mediumPlanetCount" : 1,
+      "largePlanetCount" : 0
+    },
+    "1781" : {
+      "smallPlanetCount" : 1,
+      "mediumPlanetCount" : 0,
+      "largePlanetCount" : 0
+    },
+    "1846" : {
+      "smallPlanetCount" : 1,
+      "mediumPlanetCount" : 0,
+      "largePlanetCount" : 0
+    },
+    "1930" : {
+      "smallPlanetCount" : 1,
+      "mediumPlanetCount" : 0,
+      "largePlanetCount" : 0
+    },
+    "1992" : {
+      "smallPlanetCount" : 4,
+      "mediumPlanetCount" : 0,
+      "largePlanetCount" : 0
+    },
+    "1994" : {
+      "smallPlanetCount" : 1,
+      "mediumPlanetCount" : 0,
+      "largePlanetCount" : 0
+    },
+    "1995" : {
+      "smallPlanetCount" : 1,
+      "mediumPlanetCount" : 0,
+      "largePlanetCount" : 0
+    },
+    "1996" : {
+      "smallPlanetCount" : 6,
+      "mediumPlanetCount" : 0,
+      "largePlanetCount" : 0
+    },
+    "1997" : {
+      "smallPlanetCount" : 1,
+      "mediumPlanetCount" : 0,
+      "largePlanetCount" : 0
+    },
+    "1998" : {
+      "smallPlanetCount" : 5,
+      "mediumPlanetCount" : 0,
+      "largePlanetCount" : 0
+    },
+    "1999" : {
+      "smallPlanetCount" : 10,
+      "mediumPlanetCount" : 1,
+      "largePlanetCount" : 0
+    },
+    "2000" : {
+      "smallPlanetCount" : 20,
+      "mediumPlanetCount" : 0,
+      "largePlanetCount" : 0
+    },
+    "2001" : {
+      "smallPlanetCount" : 13,
+      "mediumPlanetCount" : 0,
+      "largePlanetCount" : 0
+    },
+    "2002" : {
+      "smallPlanetCount" : 29,
+      "mediumPlanetCount" : 1,
+      "largePlanetCount" : 0
+    },
+    "2003" : {
+      "smallPlanetCount" : 25,
+      "mediumPlanetCount" : 0,
+      "largePlanetCount" : 0
+    },
+    "2004" : {
+      "smallPlanetCount" : 24,
+      "mediumPlanetCount" : 5,
+      "largePlanetCount" : 0
+    },
+    "2005" : {
+      "smallPlanetCount" : 31,
+      "mediumPlanetCount" : 3,
+      "largePlanetCount" : 0
+    },
+    "2006" : {
+      "smallPlanetCount" : 24,
+      "mediumPlanetCount" : 6,
+      "largePlanetCount" : 0
+    },
+    "2007" : {
+      "smallPlanetCount" : 48,
+      "mediumPlanetCount" : 16,
+      "largePlanetCount" : 0
+    },
+    "2008" : {
+      "smallPlanetCount" : 44,
+      "mediumPlanetCount" : 21,
+      "largePlanetCount" : 1
+    },
+    "2009" : {
+      "smallPlanetCount" : 75,
+      "mediumPlanetCount" : 6,
+      "largePlanetCount" : 0
+    },
+    "2010" : {
+      "smallPlanetCount" : 81,
+      "mediumPlanetCount" : 39,
+      "largePlanetCount" : 0
+    },
+    "2011" : {
+      "smallPlanetCount" : 140,
+      "mediumPlanetCount" : 48,
+      "largePlanetCount" : 1
+    },
+    "2012" : {
+      "smallPlanetCount" : 106,
+      "mediumPlanetCount" : 21,
+      "largePlanetCount" : 0
+    },
+    "2013" : {
+      "smallPlanetCount" : 107,
+      "mediumPlanetCount" : 30,
+      "largePlanetCount" : 2
+    },
+    "2014" : {
+      "smallPlanetCount" : 897,
+      "mediumPlanetCount" : 30,
+      "largePlanetCount" : 0
+    },
+    "2015" : {
+      "smallPlanetCount" : 162,
+      "mediumPlanetCount" : 30,
+      "largePlanetCount" : 0
+    },
+    "2016" : {
+      "smallPlanetCount" : 1272,
+      "mediumPlanetCount" : 26,
+      "largePlanetCount" : 0
+    }
+  }
+}
